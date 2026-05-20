@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 038e9b088fdf4414a91e0576b5394c1c, type: 3}
+  m_Name: BlockTypeRegistry
+  m_EditorClassIdentifier: Assembly-CSharp::BlockTypeRegistry
+  allBlocks:
+  - {fileID: 11400000, guid: 4e169b9aae7ecf345ba75b48b7b1a803, type: 2}
+  - {fileID: 11400000, guid: f0e722c98f097ee4ea4e5c34178111cb, type: 2}
+  - {fileID: 11400000, guid: e5e7cc894b018324ba1fcbe485159f5f, type: 2}
+  - {fileID: 11400000, guid: 05951262576a4a14c828e6985e19f0b8, type: 2}
+  - {fileID: 11400000, guid: 74d8db55226c84d49af363f9e4f925bd, type: 2}
+  - {fileID: 11400000, guid: a103d7f69d0af9a488eace27fad16de6, type: 2}
+  - {fileID: 11400000, guid: c2d8a3393414c1440a046fb252756e6f, type: 2}

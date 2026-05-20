@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e7526611fe08944aaef25e31b6e7eb, type: 3}
+  m_Name: Air
+  m_EditorClassIdentifier: Assembly-CSharp::BlockData
+  blockName: "\u0412\u043E\u0437\u0434\u0443\u0445"
+  blockType: 0
+  defaultMaterial: {fileID: 0}
+  topMaterial: {fileID: 0}
+  bottomMaterial: {fileID: 0}
+  sideMaterial: {fileID: 0}
+  emissionColor: {r: 0, g: 0, b: 0, a: 1}
+  emissionIntensity: 0
+  isSolid: 0
+  isBreakable: 0
+  breakTime: 1
+  minToolLevel: 0
+  dropItem: {fileID: 0}
+  minDropAmount: 1
+  maxDropAmount: 1
+  minGenerationDepth: 0
+  maxGenerationDepth: 100
+  spawnChance: 0.1
+  isOre: 0
+  isMagical: 0
+  lightLevel: 0

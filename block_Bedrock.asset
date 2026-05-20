@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e7526611fe08944aaef25e31b6e7eb, type: 3}
+  m_Name: block_Bedrock
+  m_EditorClassIdentifier: Assembly-CSharp::BlockData
+  blockName: "\u041A\u0430\u043C\u0435\u043D\u043D\u0430\u044F \u043F\u043E\u0440\u043E\u0434\u0430"
+  blockType: 12
+  tileTop: {x: 1, y: 14}
+  tileSide: {x: 1, y: 14}
+  tileBottom: {x: 1, y: 14}
+  isSolid: 1
+  isBreakable: 0
+  breakTime: 1
+  minToolLevel: 0
+  breakStages: []
+  dropItem: {fileID: 11400000, guid: 01bb741daf19d504299d636363a996ae, type: 2}
+  minDrop: 1
+  maxDrop: 1
+  renderType: 0
+  customMesh: {fileID: 0}
+  behaviour: 0
+  emissionColor: {r: 0, g: 0, b: 0, a: 1}
+  emissionIntensity: 0
+  lightLevel: 0
